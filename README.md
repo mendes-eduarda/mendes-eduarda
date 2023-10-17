@@ -20,16 +20,7 @@
 ## Contacts:
 <div> 
 <a href="https://www.instagram.com/e_doardaaa" target="_blank"><img height="45" width="145" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
- 
-<a href = "mailto:contato.eduardasmendes123@gmail.com"> <img height="45" width="145" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- 
-<a href="https://www.linkedin.com/in/eduarda-dos-s-mendes-6b5156294" target="_blank"><img height="45" width="145" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
- 
-<a href="https://discord.gg/w54VvXGJ8U" target="_blank"><img height="45" width="145" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
- 
-<a href="file:///C:/Users/eduar/.vscode/portifolio/index.html" target="_blank">
-<img height="45" width="145" src="https://img.shields.io/badge/Portifolio-CF9FFF?style=for-the-badge&logo=Portifolio&logoColor=white"target="_blank"></a> 
+</a><a href = "mailto:contato.eduardasmendes123@gmail.com"> <img height="45" width="145" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/eduarda-dos-s-mendes-6b5156294" target="_blank"><img height="45" width="145" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a><a href="https://discord.gg/w54VvXGJ8U" target="_blank"><img height="45" width="145" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a><a href="file:///C:/Users/eduar/.vscode/portifolio/index.html" target="_blank"><img height="45" width="145" src="https://img.shields.io/badge/Portifolio-CF9FFF?style=for-the-badge&logo=Portifolio&logoColor=white"target="_blank"></a> 
 
 
 &nbsp;
