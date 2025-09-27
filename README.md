@@ -1,37 +1,44 @@
-# Hello world, I'm Eduarda Mendes, welcome! 
- 
-![Eduarda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mendes-eduarda&show_icons=true&theme=midnight-purple)
+# Hello word! I'm Eduarda Mendes. 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mendes-eduarda&layout=donut&theme=midnight-purple)](https://github.com/mendes-eduarda/github-readme-stats)
+<p align="right">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="Ilustração de uma pessoa programando em um computador">
+</p>
 
-<div style="display: inline_block"><br>
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-</div>
+Bem-vindo(a) ao meu perfil! Sou uma desenvolvedora iniciante, apaixonada por tecnologia e sempre em busca de novos desafios para aprimorar minhas habilidades. Formada em eletrônica pelo Instituto Federal da Bahia.
+------------------------------------------------------------------------------------------
+Welcome to my profile! I am a beginner developer, passionate about technology and always seeking new challenges to improve my skills. I have a degree in electronics from the Federal Institute of Bahia. 
 
- &nbsp;
- 
-## Developing Skills:
-<div style="display: inline_block"><br>
-  <img align="center" alt="C"  height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">  
-  
-   <img align="center" alt="C"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-          
- 
-  <img align="center" alt="C"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" >
-  
-  <img align="center" alt="C"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" >
-          
-          
-  </div>
+<a href="https://github.com/mendes-eduarda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendes-eduarda&show_icons=true&theme=midnight-purple&rank_icon=github" alt="Estatísticas do GitHub de Eduarda Mendes" />
+</a>
+<a href="https://github.com/mendes-eduarda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mendes-eduarda&layout=donut&theme=midnight-purple" alt="Linguagens mais usadas por Eduarda Mendes"/>
+</a>
 
-&nbsp;
+<br>
 
-## Contacts:
-<div> 
-<a href="https://www.instagram.com/e_doardaaa" target="_blank"><img height="45" width="145" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a><a href = "mailto:contato.eduardasmendes123@gmail.com"> <img height="45" width="145" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://www.linkedin.com/in/eduarda-dos-s-mendes-6b5156294" target="_blank"><img height="45" width="145" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a><a href="https://discord.gg/w54VvXGJ8U" target="_blank"><img height="45" width="145" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a><a href="https://mendes-eduarda.github.io/portifolio_mendes/" target="_blank"><img height="45" width="145" src="https://img.shields.io/badge/Portifolio-CF9FFF?style=for-the-badge&logo=Portifolio&logoColor=white"target="_blank"></a> 
+## 🛠️ Habilidades em Desenvolvimento
+
+| C | C++ | HTML5 | CSS3 | 
+| :---: | :---: | :---: | :---: |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Logo C" width="60" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="Logo C++" width="60" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Logo HTML5" width="60" height="50"> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="Logo CSS3" width="60" height="50"> |
+
+<br>
+
+## 📫 Contato
+
+<a href="https://www.linkedin.com/in/eduarda-dos-s-mendes-6b5156294" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="Perfil no LinkedIn">
+</a>
+<a href="mailto:contato.eduardasmendes123@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Enviar um e-mail">
+</a>
+<a href="https://mendes-eduarda.github.io/portifolio_mendes/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-CF9FFF?style=for-the-badge&logo=briefcase&logoColor=white" target="_blank" alt="Link para o Portfólio">
+</a>
+<a href="https://www.instagram.com/e_doardaaa" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Perfil no Instagram">
+</a>
 
 
-&nbsp;
-  
-<img width=500% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
