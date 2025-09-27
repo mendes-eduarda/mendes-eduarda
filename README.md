@@ -4,9 +4,9 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="400px" alt="Ilustração de uma pessoa programando em um computador">
 </p>
 
-Bem-vindo(a) ao meu perfil! Sou uma desenvolvedora iniciante, apaixonada por tecnologia e sempre em busca de novos desafios para aprimorar minhas habilidades. Formada em eletrônica pelo Instituto Federal da Bahia.
+Bem-vindo(a) ao meu perfil! Sou uma desenvolvedora iniciante, apaixonada por tecnologia e sempre em busca de novos desafios para aprimorar minhas habilidades. Formada em eletrônica pelo Instituto Federal.
 ------------------------------------------------------------------------------------------
-Welcome to my profile! I am a beginner developer, passionate about technology and always seeking new challenges to improve my skills. I have a degree in electronics from the Federal Institute of Bahia. 
+Welcome to my profile! I am a beginner developer, passionate about technology and always seeking new challenges to improve my skills. I have a degree in electronics from the Federal Institute. 
 
 <a href="https://github.com/mendes-eduarda">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendes-eduarda&show_icons=true&theme=midnight-purple&rank_icon=github" alt="Estatísticas do GitHub de Eduarda Mendes" />
