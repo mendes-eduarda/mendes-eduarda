@@ -41,4 +41,4 @@ Welcome to my profile! I am a beginner developer, passionate about technology an
 </a>
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width="300%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
